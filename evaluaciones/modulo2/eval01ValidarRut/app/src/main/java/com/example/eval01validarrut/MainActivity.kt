@@ -76,6 +76,7 @@ fun TopBar(drawerState: DrawerState, scope: CoroutineScope) {
             )
 
         },
+
         navigationIcon = {
             Icon(
                 //imageVector = Icons.Filled.ArrowBack,
